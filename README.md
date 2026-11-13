@@ -144,3 +144,21 @@ Albertian Institute of Science and Technology (AISAT), Kalamassery
 ## 📜 License
 
 This project is intended for educational and academic purposes.
+
+
+
+
+## 📸 Project Gallery
+
+### Project Overview
+![Project Overview](docs/images/Project_overview.jpeg)
+
+### Circuit Diagram
+![Circuit Diagram](docs/images/Circuit_diagram.jpeg)
+
+### Hardware Wiring
+![Wired Setup](docs/images/project_wired.jpeg)
+
+### OLED Display Output
+![OLED Output](docs/images/OLED_Output.jpeg)
+
